@@ -25,7 +25,7 @@ Welcome to the Music Player app designed for both creatives and fans alike! This
 
 3. **Dependencies:** Navigate to the project directory and run `flutter pub get` to install all necessary dependencies.
 
-4. **Run the App:** Connect your device or use an emulator, then run the app using `flutter run`.
+4. **Run the App:** Connect your device or use an emulator, then run the app using `flutter run`
 
 5. **Explore and Enjoy:** Once the app is running, explore its features, import your music library, and start enjoying your favorite tunes!
 
