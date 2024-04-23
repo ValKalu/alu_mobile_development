@@ -1,6 +1,8 @@
 **SOUNDFIX: Music Player for Creatives and Fans**
 
-Link To [Prototype]([(https://www.loom.com/share/5151316d12fd4d2494e8f09094f52338?sid=fe14d006-7fc8-4f39-9547-88716d7ace0e))
+Link To [Prototype] 
+
+https://www.loom.com/share/5151316d12fd4d2494e8f09094f52338?sid=fe14d006-7fc8-4f39-9547-88716d7ace0e
 
 Welcome to the Music Player app designed for both creatives and fans alike! This Flutter mobile application serves as a versatile platform for enjoying music, connecting with fellow enthusiasts, and discovering new sounds. Below are some key features and instructions to get started:
 
